@@ -19,7 +19,9 @@ public class LearningArrays {
 		
 		//ararynew[0]=1000;
 		System.out.println(ararynew[0]);
-				
+				String [] name = new String[100];
+				name[0]="ram";
+				System.out.println(name[0]);
 		
  
 	}
