@@ -15,9 +15,14 @@ public class MyUtils {
 		
 		System.out.println(a+b);
 		}
-	public static int add10(int argu) {
+	//static is removed
+	public  int add10(int argu) {
 		int result = argu +10;
 		return result ; 
 		}
+	public static void trail(String enter)
+	{ 
+		System.out.println(enter + " this is the test");
+	}
 	
 }
