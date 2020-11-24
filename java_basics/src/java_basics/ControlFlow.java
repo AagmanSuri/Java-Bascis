@@ -37,7 +37,7 @@ public class ControlFlow {
 			break;
 		case 7: dayString="jan";
 			break;
-		case default: dayString="sat";
+		default:dayString="sat";
 			break;
 					
 			
