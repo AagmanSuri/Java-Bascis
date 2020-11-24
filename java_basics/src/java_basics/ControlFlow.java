@@ -13,7 +13,7 @@ public class ControlFlow {
 		{
 		System.out.println("I am not hungry");
 		}
-		*/  
+		*/  //this is the check
 		
 		int day = 4;
 		String dayString="";
@@ -37,6 +37,9 @@ public class ControlFlow {
 			break;
 		case 7: dayString="jan";
 			break;
+		case default: dayString="sat";
+			break;
+					
 			
 			
 		}
