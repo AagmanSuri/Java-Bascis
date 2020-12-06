@@ -28,6 +28,7 @@ public class LearningMethods {
 		myvar = new MyUtils();
 		int one =myvar.add10(3);
 		System.out.println(one);
+		
 	
 	
 	}
